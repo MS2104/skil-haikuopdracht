@@ -1,5 +1,3 @@
-
-
 #plak hier de haiku functions onder elkaar
 
 
